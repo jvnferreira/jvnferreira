@@ -9,7 +9,7 @@
   <li>I am studying the 4th period in Analysis and development of systems by UNA</li>
   <li>I have more than 1 year working as TI support, but I aim to become a back-end developer</li>
   <li>I also have knowledge in HTML and CSS</li>
-  <li>My hobby is to study programming, pentest and games</li>
+  <li>My hobbies is to study programming, pentest and games</li>
 </ul>
 
 <br>
