@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é João Vitor</h1> 
+<h1>👋 Olá, meu nome é João Vitor</h1> 
 
 <h2>Sobre</h2>
 
