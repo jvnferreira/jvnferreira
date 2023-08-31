@@ -9,4 +9,4 @@
   <li>Tenho como hobby estudar sorbe programação, pentest e jogos</li>
 </ul>
 
-<h2>Tecnologias</h2> 
+<h2>💻 Tecnologias</h2> 
