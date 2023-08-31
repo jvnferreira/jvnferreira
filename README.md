@@ -1,8 +1,8 @@
-#👋 Olá, meu nome é João Vitor
+# 👋 Olá, meu nome é João Vitor
 
 <br>
 
-##💬 Sobre
+## 💬 Sobre
 
 <ul>
   <li>Me chamo João Vitor Ferreira Nunes e tenho 21 anos</li>
@@ -14,7 +14,7 @@
 
 <br>
 
-##💻 Tecnologias
+## 💻 Tecnologias
 
 <div style=flex>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=100px width=100px/>
