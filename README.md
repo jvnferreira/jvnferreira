@@ -9,6 +9,8 @@
   <li>Tenho como hobby estudar sorbe programação, pentest e jogos</li>
 </ul>
 
+<br>
+
 <h2>💻 Tecnologias</h2> 
 
 <div style=flex>
@@ -20,6 +22,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=100px width=100px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" height=150px width=100px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height=100px width=100px/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height=100px width=100px/>
 </div>
 
