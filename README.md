@@ -1,4 +1,4 @@
-<h1>👋 Olá, meu nome é João Vitor 👋</h1> 
+<h1>Olá, meu nome é João Vitor</h1> 
 
 <h2>Sobre</h2>
 
@@ -9,4 +9,4 @@
   <li>Tenho como hobby estudar sorbe programação, pentest e jogos</li>
 </ul>
 
-<h2>💻 Tecnologias 💻</h2> 
+<h2>Tecnologias</h2> 
