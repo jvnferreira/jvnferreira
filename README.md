@@ -11,3 +11,4 @@
 
 <h2>💻 Tecnologias</h2> 
 
+<img style='size:50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
