@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
 <h1>👋 Olá, meu nome é João Vitor</h1> 
 
 <h2>Sobre</h2>
@@ -13,4 +11,3 @@
 
 <h2>💻 Tecnologias</h2> 
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
