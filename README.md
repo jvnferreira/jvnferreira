@@ -1,5 +1,7 @@
 <h1>👋 Olá, meu nome é João Vitor</h1> 
 
+<br>
+
 <h2>💬 Sobre</h2>
 
 <ul>
@@ -14,7 +16,7 @@
 <h2>💻 Tecnologias</h2> 
 
 <div style=flex>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=100px width=100px/><spam>         </spam>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=100px width=100px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=100px width=100px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height=100px width=100px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=100px width=100px/>       
