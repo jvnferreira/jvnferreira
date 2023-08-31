@@ -1,29 +1,29 @@
-# 👋 Olá, meu nome é João Vitor
+# 👋 Hi, I'm João Vitor
 
 <br>
 
-## 💬 Sobre
+## 💬 About
 
 <ul>
-  <li>Me chamo João Vitor Ferreira Nunes e tenho 21 anos</li>
-  <li>Estou cursando o 4 período em Análise e desenvolvimento de sistemas pela UNA</li>
-  <li>Tenho mais de 1 ano atuando como suporte de ti, porém tenho como objetivo me tornar um desenvolvedor back-end</li>
-  <li>Também tenho conhecimentos em HTML e CSS</li>
-  <li>Tenho como hobby estudar sobre programação, pentest e jogos</li>
+  <li>My name is João Vitor Ferreira Nunes and I'm 21 years old</li>
+  <li>I am studying the 4th period in Analysis and development of systems by UNA</li>
+  <li>I have more than 1 year working as IT support, but I aim to become a back-end developer</li>
+  <li>I also have knowledge in HTML and CSS</li>
+  <li>My hobby is to study programming, pentest and games</li>
 </ul>
 
 <br>
 
-## 💻 Tecnologias
+## 💻 Tecnologies
 
 <div style=flex>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=80px width=80px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=80px width=80px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height=80px width=80px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80px width=80px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" height=80px width=80px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=80px width=80px/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=80px width=80px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height=80px width=80px/>  
+  <img alt=icon-nodejs src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=80 width=80/>
+  <img alt=icon-javascript src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=80 width=80/>
+  <img alt=icon-express src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height=80 width=80/>
+  <img alt=icon-mysql src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80 width=80/>
+  <img alt=icon-sequelize src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" height=80 width=80/>
+  <img alt=icon-html5 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=80 width=80/>       
+  <img alt=icon-css3 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=80 width=80/>
+  <img alt=icon-bootstrap src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height=80 width=80/>  
 </div>
 
