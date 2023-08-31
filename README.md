@@ -11,3 +11,4 @@
 
 <h2>💻 Tecnologias</h2> 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />          
