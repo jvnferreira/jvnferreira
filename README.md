@@ -8,6 +8,7 @@
   <li>Me chamo João Vitor Ferreira Nunes e tenho 21 anos</li>
   <li>Estou cursando o 4 período em Análise e desenvolvimento de sistemas pela UNA</li>
   <li>Tenho mais de 1 ano atuando como suporte de ti, porém tenho como objetivo me tornar um desenvolvedor back-end</li>
+  <li>Também tenho conhecimentos em HTML e CSS</li>
   <li>Tenho como hobby estudar sorbe programação, pentest e jogos</li>
 </ul>
 
