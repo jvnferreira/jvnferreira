@@ -1,8 +1,8 @@
-<h2>Olá, meu nome é João Vitor</h2>
+<h1>Olá, meu nome é João Vitor</h1>
 
 <hr>
 
-📋  <h4>Sobre</h4>  📋
+<h2>Sobre</h2>
 
 <ul>
   <li>Me chamo João Vitor Ferreira Nunes e tenho 21 anos</li>
@@ -13,4 +13,4 @@
 
 <hr>
 
-🖥 <h4>Tecnologias</h4> 🖥
+<h2>Tecnologias</h2>
