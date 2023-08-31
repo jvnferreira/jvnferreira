@@ -11,4 +11,4 @@
 
 <h2>💻 Tecnologias</h2> 
 
-<spam style:"size: 50px">![bootstrap-plain-wordmark](https://github.com/jvnferreira/jvnferreira/assets/84989331/02039e98-9cb6-4c8d-9ba6-8446d981c537)</spam>
+<spam style:size: "50px">![bootstrap-plain-wordmark](https://github.com/jvnferreira/jvnferreira/assets/84989331/02039e98-9cb6-4c8d-9ba6-8446d981c537)</spam>
