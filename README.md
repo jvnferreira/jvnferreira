@@ -14,6 +14,3 @@
 <hr>
 
 🖥 <h4>Tecnologias</h4> 🖥
-
-x="9.073" y="121.431" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Bootstrap</tspan></text></svg>
-rdmark.svg…]()
