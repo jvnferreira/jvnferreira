@@ -16,6 +16,7 @@
 ## 💻 Tecnologies
 
 <div style=flex>
+  <img alt=icon-c# src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=80 width=80/>    
   <img alt=icon-nodejs src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=80 width=80/>
   <img alt=icon-javascript src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=80 width=80/>
   <img alt=icon-express src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height=80 width=80/>
