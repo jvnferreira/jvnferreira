@@ -18,7 +18,7 @@
 <div style=flex>
   <img alt=icon-c# src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=80 width=80/>
   <img alt=icon-dotnet src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height=80 width=80/>
-  <img alt=icon-dotnet-core src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt=icon-dotnet-core src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height=80 width=80/>
   <img alt=icon-mysql src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80 width=80/>
   <img alt=icon-html5 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=80 width=80/>       
   <img alt=icon-css3 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=80 width=80/>
