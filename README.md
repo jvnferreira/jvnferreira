@@ -7,7 +7,7 @@
 <ul>
   <li>My name is João Vitor Ferreira Nunes and I'm 22 years old</li>
   <li>I'm in the 5th period in systems analysis and development at UNA</li>
-  <li>I have more than 1 year working as TI support, but I aim to become a back-end developer</li>
+  <li>I have 2 years working as TI support, but I aim to become a back-end developer</li>
   <li>I have as hobbies astronomy, animes, series and games</li>
 </ul>
 
