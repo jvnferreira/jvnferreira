@@ -21,6 +21,7 @@
   <img alt=icon-mysql src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80 width=80/>
   <img alt="icon-ts "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=80 width=80/>
   <img alt=icon-js src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 width=80/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height=80 width=80/>
   <img alt=icon-html5 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=80 width=80/>       
   <img alt=icon-css3 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=80 width=80/>
 </div>
