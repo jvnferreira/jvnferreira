@@ -18,8 +18,6 @@
 <div style=flex>
   <img alt=icon-c# src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=80 width=80/>
   <img alt=icon-dotnet src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height=80 width=80/>
-  <img alt=icon-dotnet-core src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height=80 width=80/>
-  <img alt=icon-python src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=80 width=80/> 
   <img alt=icon-mysql src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80 width=80/>
   <img alt="icon-ts "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=80 width=80/>
   <img alt=icon-js src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 width=80/>
