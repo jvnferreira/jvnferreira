@@ -18,7 +18,6 @@
 <div style=flex>
   <img alt=icon-flutter src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height=80 width=80/>
   <img alt=icon-dart src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" height=80 width=80/>
-  <img alt=icon-mysql src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80 width=80/>
   <img alt="icon-ts "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=80 width=80/>
   <img alt=icon-js src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 width=80/>
   <img alt=icon-html5 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=80 width=80/>       
