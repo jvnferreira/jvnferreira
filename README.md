@@ -5,9 +5,10 @@
 ## 💬 About
 
 <ul>
-  <li>My name is João Vitor Ferreira Nunes and I'm 223 years old</li>
+  <li>My name is João Vitor Ferreira Nunes and I'm 23 years old</li>
+  <li>I'm a back-end developer, focusing on .net, relational and non-relational databases, cloud and containers.</li>
   <li>I have a degree in Systems Analysis and Development from the UNA University Center</li>
-  <li>I have as hobbies games, series and animes</li>
+  <li>I have as hobbies games, series, music and animes</li>
 </ul>
 
 <br>
